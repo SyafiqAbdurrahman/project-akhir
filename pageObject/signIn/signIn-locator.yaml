@@ -1,0 +1,6 @@
+viewgroup: //android.widget.FrameLayout[@resource-id="android:id/content"]/android.view.ViewGroup
+toolbar: //android.view.ViewGroup[@resource-id="com.example.myapplication:id/toolbar"]
+linearLayout: //android.widget.LinearLayout[@resource-id="com.example.myapplication:id/linearLayout"]
+username_login: //android.widget.EditText[@resource-id="com.example.myapplication:id/username"]
+password_login: //android.widget.EditText[@resource-id="com.example.myapplication:id/password"]
+loginButton: //android.widget.Button[@resource-id="com.example.myapplication:id/signIn"]
